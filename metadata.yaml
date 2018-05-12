@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '6735'
     url: http://www.gutenberg.org/2009/agents/6735
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16466#Four-Months-BesiegedThe-Story-of-Ladysmith
 gutenberg_issued: '2005-08-07'
 gutenberg_type: Text
 identifiers:
