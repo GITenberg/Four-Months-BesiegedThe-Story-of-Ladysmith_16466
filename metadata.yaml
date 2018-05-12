@@ -1,0 +1,27 @@
+_repo: Four-Months-BesiegedThe-Story-of-Ladysmith_16466
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pearse, Henry H. S.
+    alias: Pearse, H. H. S. (Henry Hiram Steere)
+    birthdate: 1844
+    deathdate: 1905
+    gutenberg_agent_id: '6735'
+    url: http://www.gutenberg.org/2009/agents/6735
+description: ''
+gutenberg_issued: '2005-08-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16466'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DT'
+- !lcsh 'Ladysmith (South Africa) -- History -- Siege, 1899-1900'
+title: 'Four Months Besieged: The Story of Ladysmith'
+url: http://www.gutenberg.org/ebooks/16466
